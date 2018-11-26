@@ -74,6 +74,6 @@ class ZeuzAuth
 
     public function getAccessToken()
     {
-        return $this->accesToken;
+        return $this->accessToken;
     }
 };
